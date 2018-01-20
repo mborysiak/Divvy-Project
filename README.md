@@ -1,3 +1,5 @@
+# Classifying Bike Share Trip Distance
+
 ## Summary
 This project aims to predict the distance a user will ride a bike when using the Chicago-based Divvy Bike share program. Divvy makes trip datasets publicly available on their website: https://www.divvybikes.com/system-data. Using this data, I analyzed various feature transformations and machine learning algorithms in order to predict whether or not a user will ride less than or greater than 2 km for each trip, using only information that would be known at the beginning of the ride.
 
